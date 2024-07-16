@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture | Chen Yingjie website</title>
-    <link>http://sdfmucyj/cyj.github.io/tag/culture/</link>
-      <atom:link href="http://sdfmucyj/cyj.github.io/tag/culture/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/culture/</link>
+      <atom:link href="/tag/culture/index.xml" rel="self" type="application/rss+xml" />
     <description>Culture</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://sdfmucyj/cyj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Culture</title>
-      <link>http://sdfmucyj/cyj.github.io/tag/culture/</link>
+      <link>/tag/culture/</link>
     </image>
     
     <item>
       <title>Cell Suspension Culture Patent</title>
-      <link>http://sdfmucyj/cyj.github.io/publication/patent1/</link>
+      <link>/publication/patent1/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://sdfmucyj/cyj.github.io/publication/patent1/</guid>
+      <guid>/publication/patent1/</guid>
       <description></description>
     </item>
     

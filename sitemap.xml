@@ -2,148 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sdfmucyj/cyj.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/ecg/</loc>
+    <loc>/tag/ecg/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/art/</loc>
+    <loc>/tag/art/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/project/2023artwork/</loc>
+    <loc>/project/2023artwork/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication-type/2/</loc>
+    <loc>/project/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/t/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/chen-yingjie/</loc>
+    <loc>/author/chen-yingjie/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/ecg-vector-projection/</loc>
+    <loc>/tag/ecg-vector-projection/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/electrocardiography/</loc>
+    <loc>/tag/electrocardiography/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication/journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/medical-education/</loc>
+    <loc>/tag/medical-education/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication-type/8/</loc>
+    <loc>/publication-type/8/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/cell/</loc>
+    <loc>/tag/cell/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication/patent1/</loc>
+    <loc>/publication/patent1/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/culture/</loc>
+    <loc>/tag/culture/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/li-yalin/</loc>
+    <loc>/author/li-yalin/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/liu-youwang/</loc>
+    <loc>/author/liu-youwang/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/zhou-zheng/</loc>
+    <loc>/author/zhou-zheng/</loc>
     <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/academic/</loc>
+    <loc>/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://sdfmucyj/cyj.github.io/tag/source-themes/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
