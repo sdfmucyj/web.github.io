@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art | Chen Yingjie website</title>
+    <link>http://sdfmucyj/cyj.github.io/tag/art/</link>
+      <atom:link href="http://sdfmucyj/cyj.github.io/tag/art/index.xml" rel="self" type="application/rss+xml" />
+    <description>art</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sdfmucyj/cyj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>art</title>
+      <link>http://sdfmucyj/cyj.github.io/tag/art/</link>
+    </image>
+    
+    <item>
+      <title>Artwork Project Before graduation 2024</title>
+      <link>http://sdfmucyj/cyj.github.io/project/2023artwork/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://sdfmucyj/cyj.github.io/project/2023artwork/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;default(1).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(2).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(4).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(6).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(7).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(8).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(3).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;default(5).jpeg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
